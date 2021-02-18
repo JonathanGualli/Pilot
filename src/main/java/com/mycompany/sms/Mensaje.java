@@ -18,6 +18,7 @@ public class Mensaje {
         // TODO code application logic here
         System.out.println("Hola Ivanna :D");
         System.out.println("Hola Jonathan :)");
+        System.out.println("todo bien el dia de hoy? ");
     }
     
 }
