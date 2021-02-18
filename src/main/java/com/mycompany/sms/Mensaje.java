@@ -21,6 +21,7 @@ public class Mensaje {
         System.out.println("todo bien el dia de hoy? ");
         System.out.println("Si todo bien, tu como vas?");
         System.out.println("igual, aunque con sueño *-*");
+         System.out.println("iguales, y lo peor que toca estudiar electricidad tambien");
     }
     
 }
