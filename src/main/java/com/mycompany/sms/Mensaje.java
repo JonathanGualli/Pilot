@@ -19,6 +19,7 @@ public class Mensaje {
         System.out.println("Hola Ivanna :D");
         System.out.println("Hola Jonathan :)");
         System.out.println("todo bien el dia de hoy? ");
+        System.out.println("Si todo bien, tu como vas?");
     }
     
 }
